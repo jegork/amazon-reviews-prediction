@@ -23,4 +23,9 @@ To approach the problem, two possible models will be used:
 
 ## Results
 
+Model | Training accuracy (%) | Test Accuracy (%)
+LSTM | 83 | 61
+Albert-base-v1 (implemented using TF) | 79 | 55
+
+
 ## Conclusions
